@@ -19,6 +19,8 @@ What features should it have?
 Such a thing exists! It's easy to [install](#installation) and there's even [auto-complete](#tab-completion).
 
 
+test
+
 ## Features
 
 **cheat.sh**
